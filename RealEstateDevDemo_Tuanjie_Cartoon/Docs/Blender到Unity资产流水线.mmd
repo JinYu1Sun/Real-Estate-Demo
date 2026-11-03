@@ -1,0 +1,10 @@
+%%{init: {"flowchart": {"htmlLabels": false}}}%%
+flowchart LR
+    A["精细参数化建模<br/>cube / cylinder / ico / beam / roof"] --> D["20 个资产根节点<br/>SM_*"]
+    D --> E["按根节点选择导出<br/>FBX · Y Up · -Z Forward"]
+    E --> F["Unity Resources/Models<br/>ModelImporter 自动设置"]
+    F --> G["ModelLibrary.Spawn<br/>按名称加载 + ToonLit"]
+    G --> H["MapView<br/>供应商 / 队伍 / 配套 / 装饰"]
+    G --> I["ConstructionVisual<br/>五阶段切换 / 机械动画"]
+    D --> J["CartoonRealEstateAssets.blend<br/>可编辑源工程"]
+    J --> K["Cycles 渲染<br/>资产总览 + 精细模型近景"]

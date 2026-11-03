@@ -1,0 +1,1941 @@
+fileFormatVersion: 2
+guid: CCxKt3yoUi9fQfYJ6qHaJmzmdnSJsvykZmiJl3m3kTSKrc+msIRqhg4=
+ModelImporter:
+  serializedVersion: 22361
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    aCLCompressionLevel: 3
+    aCLCurvePrecision: 0.01
+    aCLFastSampleMode: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+    tuanjieGIEnable: 0
+    tuanjieGIGenSDFFactor: 1
+    tuanjieGIGenSDFBias: 0.25
+    tuanjieGIDoubleSidedMode: 0
+    tuanjieGIGenFacetNums: 12
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    totalVerticesCount: 86400
+    totalTrianglesCount: 42300
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  virtualGeometry:
+    virtualGeometry: 0
+    useTransparent: 0
+    setVGForeachMesh: 0
+    isFirstUse: 1
+    virtualGeometrySettings:
+      generateGeometryBuffer: 0
+      surfaceCompensation: 0
+      allMeshUse: 1
+      ignoreSimpleMesh: 0
+      transformScaleState: 0
+      isPossibleOverflow: 0
+      hasBoneData: 0
+      isBoneCountOverflow: 0
+    virtualGeometryPlatformSettings: []
+    selectedVGMeshes:
+    - index: 0
+      meshName: Balcony bottom rail.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 1
+      meshName: Balcony bottom rail.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 2
+      meshName: Balcony bottom rail.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 3
+      meshName: Balcony bottom rail.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 4
+      meshName: Balcony bottom rail.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 5
+      meshName: Balcony bottom rail.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 6
+      meshName: Balcony handrail.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 7
+      meshName: Balcony handrail.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 8
+      meshName: Balcony handrail.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 9
+      meshName: Balcony handrail.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 10
+      meshName: Balcony handrail.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 11
+      meshName: Balcony handrail.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 12
+      meshName: Balcony vertical baluster.054
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 13
+      meshName: Balcony vertical baluster.055
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 14
+      meshName: Balcony vertical baluster.056
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 15
+      meshName: Balcony vertical baluster.057
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 16
+      meshName: Balcony vertical baluster.058
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 17
+      meshName: Balcony vertical baluster.059
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 18
+      meshName: Balcony vertical baluster.060
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 19
+      meshName: Balcony vertical baluster.061
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 20
+      meshName: Balcony vertical baluster.062
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 21
+      meshName: Balcony vertical baluster.063
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 22
+      meshName: Balcony vertical baluster.064
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 23
+      meshName: Balcony vertical baluster.065
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 24
+      meshName: Balcony vertical baluster.066
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 25
+      meshName: Balcony vertical baluster.067
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 26
+      meshName: Balcony vertical baluster.068
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 27
+      meshName: Balcony vertical baluster.069
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 28
+      meshName: Balcony vertical baluster.070
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 29
+      meshName: Balcony vertical baluster.071
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 30
+      meshName: Balcony vertical baluster.072
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 31
+      meshName: Balcony vertical baluster.073
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 32
+      meshName: Balcony vertical baluster.074
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 33
+      meshName: Balcony vertical baluster.075
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 34
+      meshName: Balcony vertical baluster.076
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 35
+      meshName: Balcony vertical baluster.077
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 36
+      meshName: Balcony vertical baluster.078
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 37
+      meshName: Balcony vertical baluster.079
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 38
+      meshName: Balcony vertical baluster.080
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 39
+      meshName: Balcony vertical baluster.081
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 40
+      meshName: Balcony vertical baluster.082
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 41
+      meshName: Balcony vertical baluster.083
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 42
+      meshName: Balcony vertical baluster.084
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 43
+      meshName: Balcony vertical baluster.085
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 44
+      meshName: Balcony vertical baluster.086
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 45
+      meshName: Balcony vertical baluster.087
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 46
+      meshName: Balcony vertical baluster.088
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 47
+      meshName: Balcony vertical baluster.089
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 48
+      meshName: Balcony vertical baluster.090
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 49
+      meshName: Balcony vertical baluster.091
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 50
+      meshName: Balcony vertical baluster.092
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 51
+      meshName: Balcony vertical baluster.093
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 52
+      meshName: Balcony vertical baluster.094
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 53
+      meshName: Balcony vertical baluster.095
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 54
+      meshName: Balcony vertical baluster.096
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 55
+      meshName: Balcony vertical baluster.097
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 56
+      meshName: Balcony vertical baluster.098
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 57
+      meshName: Balcony vertical baluster.099
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 58
+      meshName: Balcony vertical baluster.100
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 59
+      meshName: Balcony vertical baluster.101
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 60
+      meshName: Balcony vertical baluster.102
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 61
+      meshName: Balcony vertical baluster.103
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 62
+      meshName: Balcony vertical baluster.104
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 63
+      meshName: Balcony vertical baluster.105
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 64
+      meshName: Balcony vertical baluster.106
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 65
+      meshName: Balcony vertical baluster.107
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 66
+      meshName: Balcony vertical baluster.108
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 67
+      meshName: Balcony vertical baluster.109
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 68
+      meshName: Balcony vertical baluster.110
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 69
+      meshName: Balcony vertical baluster.111
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 70
+      meshName: Balcony vertical baluster.112
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 71
+      meshName: Balcony vertical baluster.113
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 72
+      meshName: Balcony vertical baluster.114
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 73
+      meshName: Balcony vertical baluster.115
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 74
+      meshName: Balcony vertical baluster.116
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 75
+      meshName: Balcony vertical baluster.117
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 76
+      meshName: Balcony vertical baluster.118
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 77
+      meshName: Balcony vertical baluster.119
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 78
+      meshName: Balcony vertical baluster.120
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 79
+      meshName: Balcony vertical baluster.121
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 80
+      meshName: Balcony vertical baluster.122
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 81
+      meshName: Balcony vertical baluster.123
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 82
+      meshName: Balcony vertical baluster.124
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 83
+      meshName: Balcony vertical baluster.125
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 84
+      meshName: Balcony vertical baluster.126
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 85
+      meshName: Balcony vertical baluster.127
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 86
+      meshName: Balcony vertical baluster.128
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 87
+      meshName: Balcony vertical baluster.129
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 88
+      meshName: Balcony vertical baluster.130
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 89
+      meshName: Balcony vertical baluster.131
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 90
+      meshName: Balcony vertical baluster.132
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 91
+      meshName: Balcony vertical baluster.133
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 92
+      meshName: Balcony vertical baluster.134
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 93
+      meshName: Balcony vertical baluster.135
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 94
+      meshName: Balcony vertical baluster.136
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 95
+      meshName: Balcony vertical baluster.137
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 96
+      meshName: Balcony vertical baluster.138
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 97
+      meshName: Balcony vertical baluster.139
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 98
+      meshName: Balcony vertical baluster.140
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 99
+      meshName: Balcony vertical baluster.141
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 100
+      meshName: Balcony vertical baluster.142
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 101
+      meshName: Balcony vertical baluster.143
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 102
+      meshName: Balcony vertical baluster.144
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 103
+      meshName: Balcony vertical baluster.145
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 104
+      meshName: Balcony vertical baluster.146
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 105
+      meshName: Balcony vertical baluster.147
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 106
+      meshName: Balcony vertical baluster.148
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 107
+      meshName: Balcony vertical baluster.149
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 108
+      meshName: Balcony vertical baluster.150
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 109
+      meshName: Balcony vertical baluster.151
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 110
+      meshName: Balcony vertical baluster.152
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 111
+      meshName: Balcony vertical baluster.153
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 112
+      meshName: Balcony vertical baluster.154
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 113
+      meshName: Balcony vertical baluster.155
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 114
+      meshName: Balcony vertical baluster.156
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 115
+      meshName: Balcony vertical baluster.157
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 116
+      meshName: Balcony vertical baluster.158
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 117
+      meshName: Balcony vertical baluster.159
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 118
+      meshName: Balcony vertical baluster.160
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 119
+      meshName: Balcony vertical baluster.161
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 120
+      meshName: Balcony vertical baluster.162
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 121
+      meshName: Balcony vertical baluster.163
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 122
+      meshName: Balcony vertical baluster.164
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 123
+      meshName: Balcony vertical baluster.165
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 124
+      meshName: Balcony vertical baluster.166
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 125
+      meshName: Balcony vertical baluster.167
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 126
+      meshName: Balcony vertical baluster.168
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 127
+      meshName: Balcony vertical baluster.169
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 128
+      meshName: Balcony vertical baluster.170
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 129
+      meshName: Balcony vertical baluster.171
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 130
+      meshName: Balcony vertical baluster.172
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 131
+      meshName: Balcony vertical baluster.173
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 132
+      meshName: Balcony vertical baluster.174
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 133
+      meshName: Balcony vertical baluster.175
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 134
+      meshName: Balcony vertical baluster.176
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 135
+      meshName: Balcony vertical baluster.177
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 136
+      meshName: Balcony vertical baluster.178
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 137
+      meshName: Balcony vertical baluster.179
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 138
+      meshName: Balcony vertical baluster.180
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 139
+      meshName: Balcony vertical baluster.181
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 140
+      meshName: Balcony vertical baluster.182
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 141
+      meshName: Balcony vertical baluster.183
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 142
+      meshName: Balcony vertical baluster.184
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 143
+      meshName: Balcony vertical baluster.185
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 144
+      meshName: Balcony vertical baluster.186
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 145
+      meshName: Balcony vertical baluster.187
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 146
+      meshName: Balcony vertical baluster.188
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 147
+      meshName: Balcony vertical baluster.189
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 148
+      meshName: Balcony vertical baluster.190
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 149
+      meshName: Balcony vertical baluster.191
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 150
+      meshName: Balcony vertical baluster.192
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 151
+      meshName: Balcony vertical baluster.193
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 152
+      meshName: Balcony vertical baluster.194
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 153
+      meshName: Balcony vertical baluster.195
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 154
+      meshName: Balcony vertical baluster.196
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 155
+      meshName: Balcony vertical baluster.197
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 156
+      meshName: Balcony vertical baluster.198
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 157
+      meshName: Balcony vertical baluster.199
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 158
+      meshName: Balcony vertical baluster.200
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 159
+      meshName: Balcony vertical baluster.201
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 160
+      meshName: Balcony vertical baluster.202
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 161
+      meshName: Balcony vertical baluster.203
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 162
+      meshName: Balcony vertical baluster.204
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 163
+      meshName: Balcony vertical baluster.205
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 164
+      meshName: Balcony vertical baluster.206
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 165
+      meshName: Balcony vertical baluster.207
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 166
+      meshName: Balcony vertical baluster.208
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 167
+      meshName: Balcony vertical baluster.209
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 168
+      meshName: Balcony vertical baluster.210
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 169
+      meshName: Balcony vertical baluster.211
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 170
+      meshName: Balcony vertical baluster.212
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 171
+      meshName: Balcony vertical baluster.213
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 172
+      meshName: Balcony vertical baluster.214
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 173
+      meshName: Balcony vertical baluster.215
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 174
+      meshName: Beveled site foundation.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 175
+      meshName: Column foot
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 176
+      meshName: Column foot.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 177
+      meshName: Column foot.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 178
+      meshName: Column foot.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 179
+      meshName: Column foot.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 180
+      meshName: Column foot.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 181
+      meshName: Column foot.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 182
+      meshName: Column foot.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 183
+      meshName: Column foot.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 184
+      meshName: Column foot.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 185
+      meshName: Column foot.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 186
+      meshName: Column foot.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 187
+      meshName: Column foot.012
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 188
+      meshName: Column foot.013
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 189
+      meshName: Column foot.014
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 190
+      meshName: Column foot.015
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 191
+      meshName: Column foot.016
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 192
+      meshName: Column foot.017
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 193
+      meshName: Construction elevator core
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 194
+      meshName: Core opening
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 195
+      meshName: Core opening.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 196
+      meshName: Core opening.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 197
+      meshName: External stair tread
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 198
+      meshName: External stair tread.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 199
+      meshName: External stair tread.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 200
+      meshName: External stair tread.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 201
+      meshName: External stair tread.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 202
+      meshName: External stair tread.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 203
+      meshName: Foundation shadow course.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 204
+      meshName: Structural column
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 205
+      meshName: Structural column.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 206
+      meshName: Structural column.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 207
+      meshName: Structural column.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 208
+      meshName: Structural column.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 209
+      meshName: Structural column.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 210
+      meshName: Structural column.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 211
+      meshName: Structural column.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 212
+      meshName: Structural column.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 213
+      meshName: Structural column.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 214
+      meshName: Structural column.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 215
+      meshName: Structural column.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 216
+      meshName: Structural column.012
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 217
+      meshName: Structural column.013
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 218
+      meshName: Structural column.014
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 219
+      meshName: Structural column.015
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 220
+      meshName: Structural column.016
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 221
+      meshName: Structural column.017
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 222
+      meshName: Structural floor slab
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 223
+      meshName: Structural floor slab.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 224
+      meshName: Structural floor slab.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    supportVGMeshes:
+    - index: 0
+      meshName: Balcony bottom rail.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 1
+      meshName: Balcony bottom rail.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 2
+      meshName: Balcony bottom rail.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 3
+      meshName: Balcony bottom rail.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 4
+      meshName: Balcony bottom rail.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 5
+      meshName: Balcony bottom rail.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 6
+      meshName: Balcony handrail.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 7
+      meshName: Balcony handrail.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 8
+      meshName: Balcony handrail.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 9
+      meshName: Balcony handrail.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 10
+      meshName: Balcony handrail.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 11
+      meshName: Balcony handrail.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 12
+      meshName: Balcony vertical baluster.054
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 13
+      meshName: Balcony vertical baluster.055
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 14
+      meshName: Balcony vertical baluster.056
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 15
+      meshName: Balcony vertical baluster.057
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 16
+      meshName: Balcony vertical baluster.058
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 17
+      meshName: Balcony vertical baluster.059
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 18
+      meshName: Balcony vertical baluster.060
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 19
+      meshName: Balcony vertical baluster.061
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 20
+      meshName: Balcony vertical baluster.062
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 21
+      meshName: Balcony vertical baluster.063
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 22
+      meshName: Balcony vertical baluster.064
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 23
+      meshName: Balcony vertical baluster.065
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 24
+      meshName: Balcony vertical baluster.066
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 25
+      meshName: Balcony vertical baluster.067
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 26
+      meshName: Balcony vertical baluster.068
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 27
+      meshName: Balcony vertical baluster.069
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 28
+      meshName: Balcony vertical baluster.070
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 29
+      meshName: Balcony vertical baluster.071
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 30
+      meshName: Balcony vertical baluster.072
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 31
+      meshName: Balcony vertical baluster.073
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 32
+      meshName: Balcony vertical baluster.074
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 33
+      meshName: Balcony vertical baluster.075
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 34
+      meshName: Balcony vertical baluster.076
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 35
+      meshName: Balcony vertical baluster.077
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 36
+      meshName: Balcony vertical baluster.078
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 37
+      meshName: Balcony vertical baluster.079
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 38
+      meshName: Balcony vertical baluster.080
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 39
+      meshName: Balcony vertical baluster.081
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 40
+      meshName: Balcony vertical baluster.082
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 41
+      meshName: Balcony vertical baluster.083
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 42
+      meshName: Balcony vertical baluster.084
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 43
+      meshName: Balcony vertical baluster.085
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 44
+      meshName: Balcony vertical baluster.086
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 45
+      meshName: Balcony vertical baluster.087
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 46
+      meshName: Balcony vertical baluster.088
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 47
+      meshName: Balcony vertical baluster.089
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 48
+      meshName: Balcony vertical baluster.090
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 49
+      meshName: Balcony vertical baluster.091
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 50
+      meshName: Balcony vertical baluster.092
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 51
+      meshName: Balcony vertical baluster.093
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 52
+      meshName: Balcony vertical baluster.094
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 53
+      meshName: Balcony vertical baluster.095
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 54
+      meshName: Balcony vertical baluster.096
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 55
+      meshName: Balcony vertical baluster.097
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 56
+      meshName: Balcony vertical baluster.098
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 57
+      meshName: Balcony vertical baluster.099
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 58
+      meshName: Balcony vertical baluster.100
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 59
+      meshName: Balcony vertical baluster.101
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 60
+      meshName: Balcony vertical baluster.102
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 61
+      meshName: Balcony vertical baluster.103
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 62
+      meshName: Balcony vertical baluster.104
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 63
+      meshName: Balcony vertical baluster.105
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 64
+      meshName: Balcony vertical baluster.106
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 65
+      meshName: Balcony vertical baluster.107
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 66
+      meshName: Balcony vertical baluster.108
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 67
+      meshName: Balcony vertical baluster.109
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 68
+      meshName: Balcony vertical baluster.110
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 69
+      meshName: Balcony vertical baluster.111
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 70
+      meshName: Balcony vertical baluster.112
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 71
+      meshName: Balcony vertical baluster.113
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 72
+      meshName: Balcony vertical baluster.114
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 73
+      meshName: Balcony vertical baluster.115
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 74
+      meshName: Balcony vertical baluster.116
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 75
+      meshName: Balcony vertical baluster.117
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 76
+      meshName: Balcony vertical baluster.118
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 77
+      meshName: Balcony vertical baluster.119
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 78
+      meshName: Balcony vertical baluster.120
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 79
+      meshName: Balcony vertical baluster.121
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 80
+      meshName: Balcony vertical baluster.122
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 81
+      meshName: Balcony vertical baluster.123
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 82
+      meshName: Balcony vertical baluster.124
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 83
+      meshName: Balcony vertical baluster.125
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 84
+      meshName: Balcony vertical baluster.126
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 85
+      meshName: Balcony vertical baluster.127
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 86
+      meshName: Balcony vertical baluster.128
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 87
+      meshName: Balcony vertical baluster.129
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 88
+      meshName: Balcony vertical baluster.130
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 89
+      meshName: Balcony vertical baluster.131
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 90
+      meshName: Balcony vertical baluster.132
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 91
+      meshName: Balcony vertical baluster.133
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 92
+      meshName: Balcony vertical baluster.134
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 93
+      meshName: Balcony vertical baluster.135
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 94
+      meshName: Balcony vertical baluster.136
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 95
+      meshName: Balcony vertical baluster.137
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 96
+      meshName: Balcony vertical baluster.138
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 97
+      meshName: Balcony vertical baluster.139
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 98
+      meshName: Balcony vertical baluster.140
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 99
+      meshName: Balcony vertical baluster.141
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 100
+      meshName: Balcony vertical baluster.142
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 101
+      meshName: Balcony vertical baluster.143
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 102
+      meshName: Balcony vertical baluster.144
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 103
+      meshName: Balcony vertical baluster.145
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 104
+      meshName: Balcony vertical baluster.146
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 105
+      meshName: Balcony vertical baluster.147
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 106
+      meshName: Balcony vertical baluster.148
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 107
+      meshName: Balcony vertical baluster.149
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 108
+      meshName: Balcony vertical baluster.150
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 109
+      meshName: Balcony vertical baluster.151
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 110
+      meshName: Balcony vertical baluster.152
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 111
+      meshName: Balcony vertical baluster.153
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 112
+      meshName: Balcony vertical baluster.154
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 113
+      meshName: Balcony vertical baluster.155
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 114
+      meshName: Balcony vertical baluster.156
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 115
+      meshName: Balcony vertical baluster.157
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 116
+      meshName: Balcony vertical baluster.158
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 117
+      meshName: Balcony vertical baluster.159
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 118
+      meshName: Balcony vertical baluster.160
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 119
+      meshName: Balcony vertical baluster.161
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 120
+      meshName: Balcony vertical baluster.162
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 121
+      meshName: Balcony vertical baluster.163
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 122
+      meshName: Balcony vertical baluster.164
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 123
+      meshName: Balcony vertical baluster.165
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 124
+      meshName: Balcony vertical baluster.166
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 125
+      meshName: Balcony vertical baluster.167
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 126
+      meshName: Balcony vertical baluster.168
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 127
+      meshName: Balcony vertical baluster.169
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 128
+      meshName: Balcony vertical baluster.170
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 129
+      meshName: Balcony vertical baluster.171
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 130
+      meshName: Balcony vertical baluster.172
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 131
+      meshName: Balcony vertical baluster.173
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 132
+      meshName: Balcony vertical baluster.174
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 133
+      meshName: Balcony vertical baluster.175
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 134
+      meshName: Balcony vertical baluster.176
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 135
+      meshName: Balcony vertical baluster.177
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 136
+      meshName: Balcony vertical baluster.178
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 137
+      meshName: Balcony vertical baluster.179
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 138
+      meshName: Balcony vertical baluster.180
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 139
+      meshName: Balcony vertical baluster.181
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 140
+      meshName: Balcony vertical baluster.182
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 141
+      meshName: Balcony vertical baluster.183
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 142
+      meshName: Balcony vertical baluster.184
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 143
+      meshName: Balcony vertical baluster.185
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 144
+      meshName: Balcony vertical baluster.186
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 145
+      meshName: Balcony vertical baluster.187
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 146
+      meshName: Balcony vertical baluster.188
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 147
+      meshName: Balcony vertical baluster.189
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 148
+      meshName: Balcony vertical baluster.190
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 149
+      meshName: Balcony vertical baluster.191
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 150
+      meshName: Balcony vertical baluster.192
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 151
+      meshName: Balcony vertical baluster.193
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 152
+      meshName: Balcony vertical baluster.194
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 153
+      meshName: Balcony vertical baluster.195
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 154
+      meshName: Balcony vertical baluster.196
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 155
+      meshName: Balcony vertical baluster.197
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 156
+      meshName: Balcony vertical baluster.198
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 157
+      meshName: Balcony vertical baluster.199
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 158
+      meshName: Balcony vertical baluster.200
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 159
+      meshName: Balcony vertical baluster.201
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 160
+      meshName: Balcony vertical baluster.202
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 161
+      meshName: Balcony vertical baluster.203
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 162
+      meshName: Balcony vertical baluster.204
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 163
+      meshName: Balcony vertical baluster.205
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 164
+      meshName: Balcony vertical baluster.206
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 165
+      meshName: Balcony vertical baluster.207
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 166
+      meshName: Balcony vertical baluster.208
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 167
+      meshName: Balcony vertical baluster.209
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 168
+      meshName: Balcony vertical baluster.210
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 169
+      meshName: Balcony vertical baluster.211
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 170
+      meshName: Balcony vertical baluster.212
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 171
+      meshName: Balcony vertical baluster.213
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 172
+      meshName: Balcony vertical baluster.214
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 173
+      meshName: Balcony vertical baluster.215
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 174
+      meshName: Beveled site foundation.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 175
+      meshName: Column foot
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 176
+      meshName: Column foot.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 177
+      meshName: Column foot.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 178
+      meshName: Column foot.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 179
+      meshName: Column foot.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 180
+      meshName: Column foot.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 181
+      meshName: Column foot.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 182
+      meshName: Column foot.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 183
+      meshName: Column foot.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 184
+      meshName: Column foot.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 185
+      meshName: Column foot.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 186
+      meshName: Column foot.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 187
+      meshName: Column foot.012
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 188
+      meshName: Column foot.013
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 189
+      meshName: Column foot.014
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 190
+      meshName: Column foot.015
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 191
+      meshName: Column foot.016
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 192
+      meshName: Column foot.017
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 193
+      meshName: Construction elevator core
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 194
+      meshName: Core opening
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 195
+      meshName: Core opening.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 196
+      meshName: Core opening.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 197
+      meshName: External stair tread
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 198
+      meshName: External stair tread.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 199
+      meshName: External stair tread.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 200
+      meshName: External stair tread.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 201
+      meshName: External stair tread.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 202
+      meshName: External stair tread.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 203
+      meshName: Foundation shadow course.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 204
+      meshName: Structural column
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 205
+      meshName: Structural column.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 206
+      meshName: Structural column.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 207
+      meshName: Structural column.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 208
+      meshName: Structural column.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 209
+      meshName: Structural column.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 210
+      meshName: Structural column.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 211
+      meshName: Structural column.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 212
+      meshName: Structural column.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 213
+      meshName: Structural column.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 214
+      meshName: Structural column.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 215
+      meshName: Structural column.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 216
+      meshName: Structural column.012
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 217
+      meshName: Structural column.013
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 218
+      meshName: Structural column.014
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 219
+      meshName: Structural column.015
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 220
+      meshName: Structural column.016
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 221
+      meshName: Structural column.017
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 222
+      meshName: Structural floor slab
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 223
+      meshName: Structural floor slab.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 224
+      meshName: Structural floor slab.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  overrideDefaultPose: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    namedPoseList:
+    - name: Default
+      skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    defaultPoseIndex: -1
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

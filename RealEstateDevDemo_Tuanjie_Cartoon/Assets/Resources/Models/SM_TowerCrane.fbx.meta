@@ -1,0 +1,1853 @@
+fileFormatVersion: 2
+guid: Dn8cs36rUHl0ajDIyVNWzNwRnrpVaQygme1c27v1xgARAV78htW8hsg=
+ModelImporter:
+  serializedVersion: 22361
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    aCLCompressionLevel: 3
+    aCLCurvePrecision: 0.01
+    aCLFastSampleMode: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+    tuanjieGIEnable: 0
+    tuanjieGIGenSDFFactor: 1
+    tuanjieGIGenSDFBias: 0.25
+    tuanjieGIDoubleSidedMode: 0
+    tuanjieGIGenFacetNums: 12
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    totalVerticesCount: 132361
+    totalTrianglesCount: 66348
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  virtualGeometry:
+    virtualGeometry: 0
+    useTransparent: 0
+    setVGForeachMesh: 0
+    isFirstUse: 1
+    virtualGeometrySettings:
+      generateGeometryBuffer: 0
+      surfaceCompensation: 0
+      allMeshUse: 1
+      ignoreSimpleMesh: 0
+      transformScaleState: 0
+      isPossibleOverflow: 0
+      hasBoneData: 0
+      isBoneCountOverflow: 0
+    virtualGeometryPlatformSettings: []
+    selectedVGMeshes:
+    - index: 0
+      meshName: A frame left
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 1
+      meshName: A frame right
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 2
+      meshName: A frame tie
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 3
+      meshName: Concrete counterweight
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 4
+      meshName: Concrete counterweight.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 5
+      meshName: Concrete counterweight.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 6
+      meshName: Concrete counterweight.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 7
+      meshName: Counter jib cable
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 8
+      meshName: Counter jib cable.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 9
+      meshName: Crane base frame
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 10
+      meshName: Crane concrete plinth
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 11
+      meshName: Hoist cable
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 12
+      meshName: Hoist cable.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 13
+      meshName: Hook block
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 14
+      meshName: Jib suspension cable
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 15
+      meshName: Jib suspension cable.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 16
+      meshName: Jib triangular web
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 17
+      meshName: Jib triangular web.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 18
+      meshName: Jib triangular web.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 19
+      meshName: Jib triangular web.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 20
+      meshName: Jib triangular web.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 21
+      meshName: Jib triangular web.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 22
+      meshName: Jib triangular web.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 23
+      meshName: Jib triangular web.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 24
+      meshName: Jib triangular web.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 25
+      meshName: Jib triangular web.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 26
+      meshName: Jib triangular web.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 27
+      meshName: Jib triangular web.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 28
+      meshName: Jib triangular web.012
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 29
+      meshName: Jib triangular web.013
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 30
+      meshName: Jib triangular web.014
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 31
+      meshName: Jib triangular web.015
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 32
+      meshName: Jib triangular web.016
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 33
+      meshName: Jib triangular web.017
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 34
+      meshName: Jib triangular web.018
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 35
+      meshName: Jib triangular web.019
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 36
+      meshName: Jib triangular web.020
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 37
+      meshName: Jib triangular web.021
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 38
+      meshName: Jib triangular web.022
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 39
+      meshName: Jib triangular web.023
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 40
+      meshName: Jib triangular web.024
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 41
+      meshName: Jib triangular web.025
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 42
+      meshName: Jib triangular web.026
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 43
+      meshName: Jib triangular web.027
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 44
+      meshName: Jib vertical web
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 45
+      meshName: Jib vertical web.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 46
+      meshName: Jib vertical web.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 47
+      meshName: Jib vertical web.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 48
+      meshName: Jib vertical web.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 49
+      meshName: Jib vertical web.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 50
+      meshName: Jib vertical web.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 51
+      meshName: Jib vertical web.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 52
+      meshName: Jib vertical web.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 53
+      meshName: Jib vertical web.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 54
+      meshName: Jib vertical web.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 55
+      meshName: Jib vertical web.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 56
+      meshName: Jib vertical web.012
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 57
+      meshName: Jib vertical web.013
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 58
+      meshName: Jib vertical web.014
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 59
+      meshName: Jib vertical web.015
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 60
+      meshName: Jib vertical web.016
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 61
+      meshName: Jib vertical web.017
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 62
+      meshName: Jib vertical web.018
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 63
+      meshName: Jib vertical web.019
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 64
+      meshName: Jib vertical web.020
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 65
+      meshName: Jib vertical web.021
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 66
+      meshName: Jib vertical web.022
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 67
+      meshName: Jib vertical web.023
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 68
+      meshName: Jib vertical web.024
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 69
+      meshName: Jib vertical web.025
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 70
+      meshName: Jib vertical web.026
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 71
+      meshName: Jib vertical web.027
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 72
+      meshName: Lifting hook
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 73
+      meshName: Main jib lower chord
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 74
+      meshName: Main jib lower chord.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 75
+      meshName: Main jib upper chord
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 76
+      meshName: Main jib upper chord.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 77
+      meshName: Mast X brace A
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 78
+      meshName: Mast X brace A.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 79
+      meshName: Mast X brace A.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 80
+      meshName: Mast X brace A.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 81
+      meshName: Mast X brace A.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 82
+      meshName: Mast X brace A.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 83
+      meshName: Mast X brace A.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 84
+      meshName: Mast X brace A.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 85
+      meshName: Mast X brace A.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 86
+      meshName: Mast X brace A.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 87
+      meshName: Mast X brace A.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 88
+      meshName: Mast X brace A.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 89
+      meshName: Mast X brace A.012
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 90
+      meshName: Mast X brace A.013
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 91
+      meshName: Mast X brace A.014
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 92
+      meshName: Mast X brace A.015
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 93
+      meshName: Mast X brace A.016
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 94
+      meshName: Mast X brace A.017
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 95
+      meshName: Mast X brace A.018
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 96
+      meshName: Mast X brace A.019
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 97
+      meshName: Mast X brace A.020
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 98
+      meshName: Mast X brace A.021
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 99
+      meshName: Mast X brace A.022
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 100
+      meshName: Mast X brace A.023
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 101
+      meshName: Mast X brace B
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 102
+      meshName: Mast X brace B.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 103
+      meshName: Mast X brace B.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 104
+      meshName: Mast X brace B.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 105
+      meshName: Mast X brace B.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 106
+      meshName: Mast X brace B.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 107
+      meshName: Mast X brace B.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 108
+      meshName: Mast X brace B.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 109
+      meshName: Mast X brace B.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 110
+      meshName: Mast X brace B.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 111
+      meshName: Mast X brace B.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 112
+      meshName: Mast X brace B.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 113
+      meshName: Mast X brace B.012
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 114
+      meshName: Mast X brace B.013
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 115
+      meshName: Mast X brace B.014
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 116
+      meshName: Mast X brace B.015
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 117
+      meshName: Mast X brace B.016
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 118
+      meshName: Mast X brace B.017
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 119
+      meshName: Mast X brace B.018
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 120
+      meshName: Mast X brace B.019
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 121
+      meshName: Mast X brace B.020
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 122
+      meshName: Mast X brace B.021
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 123
+      meshName: Mast X brace B.022
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 124
+      meshName: Mast X brace B.023
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 125
+      meshName: Mast horizontal collar
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 126
+      meshName: Mast horizontal collar.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 127
+      meshName: Mast horizontal collar.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 128
+      meshName: Mast horizontal collar.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 129
+      meshName: Mast horizontal collar.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 130
+      meshName: Mast horizontal collar.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 131
+      meshName: Mast horizontal collar.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 132
+      meshName: Mast horizontal collar.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 133
+      meshName: Mast horizontal collar.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 134
+      meshName: Mast horizontal collar.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 135
+      meshName: Mast horizontal collar.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 136
+      meshName: Mast horizontal collar.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 137
+      meshName: Mast side brace
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 138
+      meshName: Mast side brace.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 139
+      meshName: Mast side brace.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 140
+      meshName: Mast side brace.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 141
+      meshName: Mast side brace.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 142
+      meshName: Mast side brace.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 143
+      meshName: Mast side brace.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 144
+      meshName: Mast side brace.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 145
+      meshName: Mast side brace.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 146
+      meshName: Mast side brace.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 147
+      meshName: Mast side brace.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 148
+      meshName: Mast side brace.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 149
+      meshName: Mast side brace.012
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 150
+      meshName: Mast side brace.013
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 151
+      meshName: Mast side brace.014
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 152
+      meshName: Mast side brace.015
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 153
+      meshName: Mast side brace.016
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 154
+      meshName: Mast side brace.017
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 155
+      meshName: Mast side brace.018
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 156
+      meshName: Mast side brace.019
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 157
+      meshName: Mast side brace.020
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 158
+      meshName: Mast side brace.021
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 159
+      meshName: Mast side brace.022
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 160
+      meshName: Mast side brace.023
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 161
+      meshName: Mast upright
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 162
+      meshName: Mast upright.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 163
+      meshName: Mast upright.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 164
+      meshName: Mast upright.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 165
+      meshName: Mast upright.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 166
+      meshName: Mast upright.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 167
+      meshName: Mast upright.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 168
+      meshName: Mast upright.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 169
+      meshName: Mast upright.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 170
+      meshName: Mast upright.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 171
+      meshName: Mast upright.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 172
+      meshName: Mast upright.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 173
+      meshName: Mast upright.012
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 174
+      meshName: Mast upright.013
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 175
+      meshName: Mast upright.014
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 176
+      meshName: Mast upright.015
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 177
+      meshName: Mast upright.016
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 178
+      meshName: Mast upright.017
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 179
+      meshName: Mast upright.018
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 180
+      meshName: Mast upright.019
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 181
+      meshName: Mast upright.020
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 182
+      meshName: Mast upright.021
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 183
+      meshName: Mast upright.022
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 184
+      meshName: Mast upright.023
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 185
+      meshName: Mast upright.024
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 186
+      meshName: Mast upright.025
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 187
+      meshName: Mast upright.026
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 188
+      meshName: Mast upright.027
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 189
+      meshName: Mast upright.028
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 190
+      meshName: Mast upright.029
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 191
+      meshName: Mast upright.030
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 192
+      meshName: Mast upright.031
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 193
+      meshName: Mast upright.032
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 194
+      meshName: Mast upright.033
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 195
+      meshName: Mast upright.034
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 196
+      meshName: Mast upright.035
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 197
+      meshName: Mast upright.036
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 198
+      meshName: Mast upright.037
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 199
+      meshName: Mast upright.038
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 200
+      meshName: Mast upright.039
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 201
+      meshName: Mast upright.040
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 202
+      meshName: Mast upright.041
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 203
+      meshName: Mast upright.042
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 204
+      meshName: Mast upright.043
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 205
+      meshName: Mast upright.044
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 206
+      meshName: Mast upright.045
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 207
+      meshName: Mast upright.046
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 208
+      meshName: Mast upright.047
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 209
+      meshName: Operator cab
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 210
+      meshName: Operator front glass
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 211
+      meshName: Operator side glass
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 212
+      meshName: Slewing platform
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 213
+      meshName: Trolley
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    supportVGMeshes:
+    - index: 0
+      meshName: A frame left
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 1
+      meshName: A frame right
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 2
+      meshName: A frame tie
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 3
+      meshName: Concrete counterweight
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 4
+      meshName: Concrete counterweight.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 5
+      meshName: Concrete counterweight.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 6
+      meshName: Concrete counterweight.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 7
+      meshName: Counter jib cable
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 8
+      meshName: Counter jib cable.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 9
+      meshName: Crane base frame
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 10
+      meshName: Crane concrete plinth
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 11
+      meshName: Hoist cable
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 12
+      meshName: Hoist cable.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 13
+      meshName: Hook block
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 14
+      meshName: Jib suspension cable
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 15
+      meshName: Jib suspension cable.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 16
+      meshName: Jib triangular web
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 17
+      meshName: Jib triangular web.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 18
+      meshName: Jib triangular web.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 19
+      meshName: Jib triangular web.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 20
+      meshName: Jib triangular web.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 21
+      meshName: Jib triangular web.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 22
+      meshName: Jib triangular web.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 23
+      meshName: Jib triangular web.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 24
+      meshName: Jib triangular web.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 25
+      meshName: Jib triangular web.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 26
+      meshName: Jib triangular web.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 27
+      meshName: Jib triangular web.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 28
+      meshName: Jib triangular web.012
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 29
+      meshName: Jib triangular web.013
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 30
+      meshName: Jib triangular web.014
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 31
+      meshName: Jib triangular web.015
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 32
+      meshName: Jib triangular web.016
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 33
+      meshName: Jib triangular web.017
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 34
+      meshName: Jib triangular web.018
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 35
+      meshName: Jib triangular web.019
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 36
+      meshName: Jib triangular web.020
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 37
+      meshName: Jib triangular web.021
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 38
+      meshName: Jib triangular web.022
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 39
+      meshName: Jib triangular web.023
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 40
+      meshName: Jib triangular web.024
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 41
+      meshName: Jib triangular web.025
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 42
+      meshName: Jib triangular web.026
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 43
+      meshName: Jib triangular web.027
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 44
+      meshName: Jib vertical web
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 45
+      meshName: Jib vertical web.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 46
+      meshName: Jib vertical web.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 47
+      meshName: Jib vertical web.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 48
+      meshName: Jib vertical web.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 49
+      meshName: Jib vertical web.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 50
+      meshName: Jib vertical web.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 51
+      meshName: Jib vertical web.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 52
+      meshName: Jib vertical web.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 53
+      meshName: Jib vertical web.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 54
+      meshName: Jib vertical web.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 55
+      meshName: Jib vertical web.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 56
+      meshName: Jib vertical web.012
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 57
+      meshName: Jib vertical web.013
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 58
+      meshName: Jib vertical web.014
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 59
+      meshName: Jib vertical web.015
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 60
+      meshName: Jib vertical web.016
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 61
+      meshName: Jib vertical web.017
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 62
+      meshName: Jib vertical web.018
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 63
+      meshName: Jib vertical web.019
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 64
+      meshName: Jib vertical web.020
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 65
+      meshName: Jib vertical web.021
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 66
+      meshName: Jib vertical web.022
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 67
+      meshName: Jib vertical web.023
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 68
+      meshName: Jib vertical web.024
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 69
+      meshName: Jib vertical web.025
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 70
+      meshName: Jib vertical web.026
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 71
+      meshName: Jib vertical web.027
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 72
+      meshName: Lifting hook
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 73
+      meshName: Main jib lower chord
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 74
+      meshName: Main jib lower chord.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 75
+      meshName: Main jib upper chord
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 76
+      meshName: Main jib upper chord.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 77
+      meshName: Mast X brace A
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 78
+      meshName: Mast X brace A.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 79
+      meshName: Mast X brace A.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 80
+      meshName: Mast X brace A.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 81
+      meshName: Mast X brace A.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 82
+      meshName: Mast X brace A.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 83
+      meshName: Mast X brace A.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 84
+      meshName: Mast X brace A.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 85
+      meshName: Mast X brace A.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 86
+      meshName: Mast X brace A.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 87
+      meshName: Mast X brace A.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 88
+      meshName: Mast X brace A.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 89
+      meshName: Mast X brace A.012
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 90
+      meshName: Mast X brace A.013
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 91
+      meshName: Mast X brace A.014
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 92
+      meshName: Mast X brace A.015
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 93
+      meshName: Mast X brace A.016
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 94
+      meshName: Mast X brace A.017
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 95
+      meshName: Mast X brace A.018
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 96
+      meshName: Mast X brace A.019
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 97
+      meshName: Mast X brace A.020
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 98
+      meshName: Mast X brace A.021
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 99
+      meshName: Mast X brace A.022
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 100
+      meshName: Mast X brace A.023
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 101
+      meshName: Mast X brace B
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 102
+      meshName: Mast X brace B.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 103
+      meshName: Mast X brace B.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 104
+      meshName: Mast X brace B.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 105
+      meshName: Mast X brace B.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 106
+      meshName: Mast X brace B.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 107
+      meshName: Mast X brace B.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 108
+      meshName: Mast X brace B.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 109
+      meshName: Mast X brace B.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 110
+      meshName: Mast X brace B.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 111
+      meshName: Mast X brace B.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 112
+      meshName: Mast X brace B.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 113
+      meshName: Mast X brace B.012
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 114
+      meshName: Mast X brace B.013
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 115
+      meshName: Mast X brace B.014
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 116
+      meshName: Mast X brace B.015
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 117
+      meshName: Mast X brace B.016
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 118
+      meshName: Mast X brace B.017
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 119
+      meshName: Mast X brace B.018
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 120
+      meshName: Mast X brace B.019
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 121
+      meshName: Mast X brace B.020
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 122
+      meshName: Mast X brace B.021
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 123
+      meshName: Mast X brace B.022
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 124
+      meshName: Mast X brace B.023
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 125
+      meshName: Mast horizontal collar
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 126
+      meshName: Mast horizontal collar.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 127
+      meshName: Mast horizontal collar.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 128
+      meshName: Mast horizontal collar.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 129
+      meshName: Mast horizontal collar.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 130
+      meshName: Mast horizontal collar.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 131
+      meshName: Mast horizontal collar.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 132
+      meshName: Mast horizontal collar.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 133
+      meshName: Mast horizontal collar.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 134
+      meshName: Mast horizontal collar.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 135
+      meshName: Mast horizontal collar.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 136
+      meshName: Mast horizontal collar.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 137
+      meshName: Mast side brace
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 138
+      meshName: Mast side brace.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 139
+      meshName: Mast side brace.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 140
+      meshName: Mast side brace.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 141
+      meshName: Mast side brace.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 142
+      meshName: Mast side brace.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 143
+      meshName: Mast side brace.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 144
+      meshName: Mast side brace.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 145
+      meshName: Mast side brace.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 146
+      meshName: Mast side brace.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 147
+      meshName: Mast side brace.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 148
+      meshName: Mast side brace.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 149
+      meshName: Mast side brace.012
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 150
+      meshName: Mast side brace.013
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 151
+      meshName: Mast side brace.014
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 152
+      meshName: Mast side brace.015
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 153
+      meshName: Mast side brace.016
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 154
+      meshName: Mast side brace.017
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 155
+      meshName: Mast side brace.018
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 156
+      meshName: Mast side brace.019
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 157
+      meshName: Mast side brace.020
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 158
+      meshName: Mast side brace.021
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 159
+      meshName: Mast side brace.022
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 160
+      meshName: Mast side brace.023
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 161
+      meshName: Mast upright
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 162
+      meshName: Mast upright.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 163
+      meshName: Mast upright.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 164
+      meshName: Mast upright.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 165
+      meshName: Mast upright.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 166
+      meshName: Mast upright.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 167
+      meshName: Mast upright.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 168
+      meshName: Mast upright.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 169
+      meshName: Mast upright.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 170
+      meshName: Mast upright.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 171
+      meshName: Mast upright.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 172
+      meshName: Mast upright.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 173
+      meshName: Mast upright.012
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 174
+      meshName: Mast upright.013
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 175
+      meshName: Mast upright.014
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 176
+      meshName: Mast upright.015
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 177
+      meshName: Mast upright.016
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 178
+      meshName: Mast upright.017
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 179
+      meshName: Mast upright.018
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 180
+      meshName: Mast upright.019
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 181
+      meshName: Mast upright.020
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 182
+      meshName: Mast upright.021
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 183
+      meshName: Mast upright.022
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 184
+      meshName: Mast upright.023
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 185
+      meshName: Mast upright.024
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 186
+      meshName: Mast upright.025
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 187
+      meshName: Mast upright.026
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 188
+      meshName: Mast upright.027
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 189
+      meshName: Mast upright.028
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 190
+      meshName: Mast upright.029
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 191
+      meshName: Mast upright.030
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 192
+      meshName: Mast upright.031
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 193
+      meshName: Mast upright.032
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 194
+      meshName: Mast upright.033
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 195
+      meshName: Mast upright.034
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 196
+      meshName: Mast upright.035
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 197
+      meshName: Mast upright.036
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 198
+      meshName: Mast upright.037
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 199
+      meshName: Mast upright.038
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 200
+      meshName: Mast upright.039
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 201
+      meshName: Mast upright.040
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 202
+      meshName: Mast upright.041
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 203
+      meshName: Mast upright.042
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 204
+      meshName: Mast upright.043
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 205
+      meshName: Mast upright.044
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 206
+      meshName: Mast upright.045
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 207
+      meshName: Mast upright.046
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 208
+      meshName: Mast upright.047
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 209
+      meshName: Operator cab
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 210
+      meshName: Operator front glass
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 211
+      meshName: Operator side glass
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 212
+      meshName: Slewing platform
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 213
+      meshName: Trolley
+      lodLevel: 0
+      meshGeometryBuffer: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  overrideDefaultPose: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    namedPoseList:
+    - name: Default
+      skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    defaultPoseIndex: -1
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

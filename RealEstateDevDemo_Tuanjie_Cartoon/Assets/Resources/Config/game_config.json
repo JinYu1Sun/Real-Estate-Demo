@@ -1,0 +1,21 @@
+{
+  "InitialCash": 1500000,
+  "MaxMonths": 60,
+  "ConservativeRevenue": 1700000,
+  "BaseBuildCost": 220000,
+  "LandPreparation": 60000,
+  "Infrastructure": 40000,
+  "Taxes": 80000,
+  "Finance": 30000,
+  "Marketing": 25000,
+  "RiskReserve": 50000,
+  "TargetProfit": 150000,
+  "BaseUnitPrice": 52000,
+  "MonthlyLoanRate": 0.006,
+  "Materials": [
+    { "Name": "碎石", "Quantity": 80, "BasePrice": 160, "UnitFreight": 4, "Loading": 800 },
+    { "Name": "钢筋", "Quantity": 40, "BasePrice": 4200, "UnitFreight": 12, "Loading": 1600 },
+    { "Name": "混凝土", "Quantity": 300, "BasePrice": 520, "UnitFreight": 5, "Loading": 2000 },
+    { "Name": "木材", "Quantity": 25, "BasePrice": 1800, "UnitFreight": 10, "Loading": 1000 }
+  ]
+}

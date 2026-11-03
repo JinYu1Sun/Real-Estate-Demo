@@ -1,0 +1,909 @@
+fileFormatVersion: 2
+guid: WygW5Hv7Ai4YLGNjvf9+W22Gwx/pH64n16R8ESHJKodY+UcMsszu2sI=
+ModelImporter:
+  serializedVersion: 22361
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    aCLCompressionLevel: 3
+    aCLCurvePrecision: 0.01
+    aCLFastSampleMode: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+    tuanjieGIEnable: 0
+    tuanjieGIGenSDFFactor: 1
+    tuanjieGIGenSDFBias: 0.25
+    tuanjieGIDoubleSidedMode: 0
+    tuanjieGIGenFacetNums: 12
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    totalVerticesCount: 55848
+    totalTrianglesCount: 28160
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  virtualGeometry:
+    virtualGeometry: 0
+    useTransparent: 0
+    setVGForeachMesh: 0
+    isFirstUse: 1
+    virtualGeometrySettings:
+      generateGeometryBuffer: 0
+      surfaceCompensation: 0
+      allMeshUse: 1
+      ignoreSimpleMesh: 0
+      transformScaleState: 0
+      isPossibleOverflow: 0
+      hasBoneData: 0
+      isBoneCountOverflow: 0
+    virtualGeometryPlatformSettings: []
+    selectedVGMeshes:
+    - index: 0
+      meshName: Boom hydraulic piston
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 1
+      meshName: Boom pivot
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 2
+      meshName: Boom pivot.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 3
+      meshName: Boom pivot.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 4
+      meshName: Bright wheel hub
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 5
+      meshName: Bright wheel hub.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 6
+      meshName: Bright wheel hub.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 7
+      meshName: Bright wheel hub.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 8
+      meshName: Bright wheel hub.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 9
+      meshName: Bright wheel hub.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 10
+      meshName: Cab door handle
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 11
+      meshName: Cab door handle.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 12
+      meshName: Cab lower body
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 13
+      meshName: Cab roof
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 14
+      meshName: Cab side window
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 15
+      meshName: Cab side window.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 16
+      meshName: Cab upper body
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 17
+      meshName: Chunky tire
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 18
+      meshName: Chunky tire.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 19
+      meshName: Chunky tire.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 20
+      meshName: Chunky tire.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 21
+      meshName: Chunky tire.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 22
+      meshName: Chunky tire.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 23
+      meshName: Equipment access panel
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 24
+      meshName: Equipment access panel.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 25
+      meshName: Equipment access panel.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 26
+      meshName: Flexible concrete hose
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 27
+      meshName: Front bumper
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 28
+      meshName: Front grille
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 29
+      meshName: Front grille.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 30
+      meshName: Front grille.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 31
+      meshName: Front windshield
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 32
+      meshName: Headlamp
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 33
+      meshName: Headlamp.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 34
+      meshName: Heavy chassis
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 35
+      meshName: Hose nozzle
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 36
+      meshName: Hydraulic boom 0
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 37
+      meshName: Hydraulic boom 1
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 38
+      meshName: Hydraulic boom 2
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 39
+      meshName: Hydraulic piston
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 40
+      meshName: Mirror arm
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 41
+      meshName: Mirror arm.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 42
+      meshName: Outrigger
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 43
+      meshName: Outrigger foot
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 44
+      meshName: Outrigger foot.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 45
+      meshName: Outrigger foot.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 46
+      meshName: Outrigger foot.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 47
+      meshName: Outrigger.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 48
+      meshName: Outrigger.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 49
+      meshName: Outrigger.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 50
+      meshName: Pump equipment bed
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 51
+      meshName: Rotating turret
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 52
+      meshName: Wheel lug
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 53
+      meshName: Wheel lug.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 54
+      meshName: Wheel lug.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 55
+      meshName: Wheel lug.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 56
+      meshName: Wheel lug.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 57
+      meshName: Wheel lug.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 58
+      meshName: Wheel lug.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 59
+      meshName: Wheel lug.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 60
+      meshName: Wheel lug.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 61
+      meshName: Wheel lug.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 62
+      meshName: Wheel lug.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 63
+      meshName: Wheel lug.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 64
+      meshName: Wheel lug.012
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 65
+      meshName: Wheel lug.013
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 66
+      meshName: Wheel lug.014
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 67
+      meshName: Wheel lug.015
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 68
+      meshName: Wheel lug.016
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 69
+      meshName: Wheel lug.017
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 70
+      meshName: Wheel lug.018
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 71
+      meshName: Wheel lug.019
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 72
+      meshName: Wheel lug.020
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 73
+      meshName: Wheel lug.021
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 74
+      meshName: Wheel lug.022
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 75
+      meshName: Wheel lug.023
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 76
+      meshName: Wheel lug.024
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 77
+      meshName: Wheel lug.025
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 78
+      meshName: Wheel lug.026
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 79
+      meshName: Wheel lug.027
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 80
+      meshName: Wheel lug.028
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 81
+      meshName: Wheel lug.029
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 82
+      meshName: Wheel lug.030
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 83
+      meshName: Wheel lug.031
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 84
+      meshName: Wheel lug.032
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 85
+      meshName: Wheel lug.033
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 86
+      meshName: Wheel lug.034
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 87
+      meshName: Wheel lug.035
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 88
+      meshName: Wheel rim
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 89
+      meshName: Wheel rim.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 90
+      meshName: Wheel rim.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 91
+      meshName: Wheel rim.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 92
+      meshName: Wheel rim.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 93
+      meshName: Wheel rim.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 94
+      meshName: Wing mirror
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 95
+      meshName: Wing mirror.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    supportVGMeshes:
+    - index: 0
+      meshName: Boom hydraulic piston
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 1
+      meshName: Boom pivot
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 2
+      meshName: Boom pivot.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 3
+      meshName: Boom pivot.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 4
+      meshName: Bright wheel hub
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 5
+      meshName: Bright wheel hub.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 6
+      meshName: Bright wheel hub.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 7
+      meshName: Bright wheel hub.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 8
+      meshName: Bright wheel hub.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 9
+      meshName: Bright wheel hub.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 10
+      meshName: Cab door handle
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 11
+      meshName: Cab door handle.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 12
+      meshName: Cab lower body
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 13
+      meshName: Cab roof
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 14
+      meshName: Cab side window
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 15
+      meshName: Cab side window.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 16
+      meshName: Cab upper body
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 17
+      meshName: Chunky tire
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 18
+      meshName: Chunky tire.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 19
+      meshName: Chunky tire.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 20
+      meshName: Chunky tire.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 21
+      meshName: Chunky tire.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 22
+      meshName: Chunky tire.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 23
+      meshName: Equipment access panel
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 24
+      meshName: Equipment access panel.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 25
+      meshName: Equipment access panel.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 26
+      meshName: Flexible concrete hose
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 27
+      meshName: Front bumper
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 28
+      meshName: Front grille
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 29
+      meshName: Front grille.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 30
+      meshName: Front grille.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 31
+      meshName: Front windshield
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 32
+      meshName: Headlamp
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 33
+      meshName: Headlamp.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 34
+      meshName: Heavy chassis
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 35
+      meshName: Hose nozzle
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 36
+      meshName: Hydraulic boom 0
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 37
+      meshName: Hydraulic boom 1
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 38
+      meshName: Hydraulic boom 2
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 39
+      meshName: Hydraulic piston
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 40
+      meshName: Mirror arm
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 41
+      meshName: Mirror arm.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 42
+      meshName: Outrigger
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 43
+      meshName: Outrigger foot
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 44
+      meshName: Outrigger foot.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 45
+      meshName: Outrigger foot.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 46
+      meshName: Outrigger foot.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 47
+      meshName: Outrigger.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 48
+      meshName: Outrigger.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 49
+      meshName: Outrigger.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 50
+      meshName: Pump equipment bed
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 51
+      meshName: Rotating turret
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 52
+      meshName: Wheel lug
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 53
+      meshName: Wheel lug.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 54
+      meshName: Wheel lug.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 55
+      meshName: Wheel lug.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 56
+      meshName: Wheel lug.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 57
+      meshName: Wheel lug.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 58
+      meshName: Wheel lug.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 59
+      meshName: Wheel lug.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 60
+      meshName: Wheel lug.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 61
+      meshName: Wheel lug.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 62
+      meshName: Wheel lug.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 63
+      meshName: Wheel lug.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 64
+      meshName: Wheel lug.012
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 65
+      meshName: Wheel lug.013
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 66
+      meshName: Wheel lug.014
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 67
+      meshName: Wheel lug.015
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 68
+      meshName: Wheel lug.016
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 69
+      meshName: Wheel lug.017
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 70
+      meshName: Wheel lug.018
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 71
+      meshName: Wheel lug.019
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 72
+      meshName: Wheel lug.020
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 73
+      meshName: Wheel lug.021
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 74
+      meshName: Wheel lug.022
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 75
+      meshName: Wheel lug.023
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 76
+      meshName: Wheel lug.024
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 77
+      meshName: Wheel lug.025
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 78
+      meshName: Wheel lug.026
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 79
+      meshName: Wheel lug.027
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 80
+      meshName: Wheel lug.028
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 81
+      meshName: Wheel lug.029
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 82
+      meshName: Wheel lug.030
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 83
+      meshName: Wheel lug.031
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 84
+      meshName: Wheel lug.032
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 85
+      meshName: Wheel lug.033
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 86
+      meshName: Wheel lug.034
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 87
+      meshName: Wheel lug.035
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 88
+      meshName: Wheel rim
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 89
+      meshName: Wheel rim.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 90
+      meshName: Wheel rim.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 91
+      meshName: Wheel rim.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 92
+      meshName: Wheel rim.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 93
+      meshName: Wheel rim.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 94
+      meshName: Wing mirror
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 95
+      meshName: Wing mirror.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  overrideDefaultPose: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    namedPoseList:
+    - name: Default
+      skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    defaultPoseIndex: -1
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

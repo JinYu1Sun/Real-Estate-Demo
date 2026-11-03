@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!129 &1
+PlayerSettings:
+  serializedVersion: 26
+  productGUID: 7f62f0b7d3a2467b9b0fb2f547e29c11
+  companyName: DemoStudio
+  productName: 房地产开发模拟器
+  defaultScreenWidth: 1920
+  defaultScreenHeight: 1080
+  fullscreenMode: 3
+  runInBackground: 1
+  colorSpace: 1
+  apiCompatibilityLevel: 6
+  activeInputHandler: 0

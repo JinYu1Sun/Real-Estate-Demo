@@ -1,0 +1,65 @@
+%%{init: {"flowchart": {"htmlLabels": false}}}%%
+flowchart LR
+    subgraph Asset["卡通资产生产层"]
+        Blender["Blender / bpy<br/>build_cartoon_assets.py"]
+        Brand["双字体 / 城市图标<br/>ToonLit / GridTerrain"]
+        FBX["20 个精细立体 FBX<br/>Assets/Resources/Models"]
+        Blender --> FBX
+    end
+
+    subgraph Presentation["Unity 表现层 · C#"]
+        Boot["DemoBootstrap<br/>启动 / 时间 / 重开"]
+        HUD["GameHUD<br/>1080P uGUI / 高清双字体 / 操作入口"]
+        Map["MapView<br/>平坦地形 / 实心地基 / 立体设施 / 点击"]
+        Visual["ConstructionVisual<br/>五阶段 / 机械动画"]
+        Camera["CameraRig<br/>等距镜头"]
+        Models["ModelLibrary<br/>Resources 加载 / ToonLit"]
+        Save["SaveSystem<br/>JSON 单槽 / 原子写入"]
+        Editor["DemoEditorTools<br/>场景 / 资源检查 / 打包"]
+    end
+
+    subgraph Core["纯 C# 经营内核 · 不依赖 Unity"]
+        Facade["GameCore<br/>唯一主要门面"]
+        State["GameState<br/>可序列化状态"]
+        Config["GameConfig<br/>数值配置"]
+        MapGen["MapGenerator<br/>100×100 / BFS"]
+        Cost["CostEngine<br/>地价 / 运距 / 材料"]
+        Tender["TenderSystem<br/>8 卡 / 3 类 AI"]
+        Construction["ConstructionSystem<br/>工期 / 五阶段"]
+        Sales["SalesSystem<br/>70% 预售 / 去化"]
+        Events["EventSystem<br/>风险事件"]
+        Random["GameRandom<br/>XorShift32"]
+    end
+
+    Test["CoreSmokeTests<br/>.NET 8 / 64 assertions"]
+
+    Boot --> Facade
+    HUD --> Boot
+    Boot --> Map
+    Boot --> Visual
+    Boot --> Camera
+    Boot --> Save
+    Map --> Models
+    Visual --> Models
+    FBX --> Models
+    Save --> State
+    Save --> Config
+
+    Facade --> State
+    Facade --> Config
+    Facade --> MapGen
+    Facade --> Cost
+    Facade --> Tender
+    Facade --> Construction
+    Facade --> Sales
+    Facade --> Events
+    Tender --> Random
+    Sales --> Random
+    Construction --> Cost
+    Construction --> Events
+    Sales --> Cost
+    Cost --> MapGen
+    Test --> Facade
+    Editor --> FBX
+    Brand --> HUD
+    Brand --> Models

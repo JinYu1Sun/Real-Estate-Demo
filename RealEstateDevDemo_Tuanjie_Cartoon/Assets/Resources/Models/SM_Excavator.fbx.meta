@@ -1,0 +1,941 @@
+fileFormatVersion: 2
+guid: WygYs3j7WygRtGR4aIoUPoJWTeToTCGzayiTApbqvav0CDSwPkXF1Fo=
+ModelImporter:
+  serializedVersion: 22361
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    aCLCompressionLevel: 3
+    aCLCurvePrecision: 0.01
+    aCLFastSampleMode: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+    tuanjieGIEnable: 0
+    tuanjieGIGenSDFFactor: 1
+    tuanjieGIGenSDFBias: 0.25
+    tuanjieGIDoubleSidedMode: 0
+    tuanjieGIGenFacetNums: 12
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    totalVerticesCount: 41244
+    totalTrianglesCount: 20560
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  virtualGeometry:
+    virtualGeometry: 0
+    useTransparent: 0
+    setVGForeachMesh: 0
+    isFirstUse: 1
+    virtualGeometrySettings:
+      generateGeometryBuffer: 0
+      surfaceCompensation: 0
+      allMeshUse: 1
+      ignoreSimpleMesh: 0
+      transformScaleState: 0
+      isPossibleOverflow: 0
+      hasBoneData: 0
+      isBoneCountOverflow: 0
+    virtualGeometryPlatformSettings: []
+    selectedVGMeshes:
+    - index: 0
+      meshName: Arm pivot pin
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 1
+      meshName: Arm pivot pin.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 2
+      meshName: Arm pivot pin.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 3
+      meshName: Boom hydraulic barrel
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 4
+      meshName: Boom hydraulic rod
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 5
+      meshName: Bucket cutting edge
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 6
+      meshName: Bucket shell
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 7
+      meshName: Bucket tooth
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 8
+      meshName: Bucket tooth.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 9
+      meshName: Bucket tooth.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 10
+      meshName: Bucket tooth.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 11
+      meshName: Cab frame
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 12
+      meshName: Cab front glass
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 13
+      meshName: Cab roof.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 14
+      meshName: Cab side glass
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 15
+      meshName: Dipper stick
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 16
+      meshName: Engine ventilation slot
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 17
+      meshName: Engine ventilation slot.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 18
+      meshName: Engine ventilation slot.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 19
+      meshName: Exhaust
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 20
+      meshName: Individual track pad
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 21
+      meshName: Individual track pad.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 22
+      meshName: Individual track pad.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 23
+      meshName: Individual track pad.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 24
+      meshName: Individual track pad.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 25
+      meshName: Individual track pad.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 26
+      meshName: Individual track pad.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 27
+      meshName: Individual track pad.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 28
+      meshName: Individual track pad.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 29
+      meshName: Individual track pad.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 30
+      meshName: Individual track pad.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 31
+      meshName: Individual track pad.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 32
+      meshName: Individual track pad.012
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 33
+      meshName: Individual track pad.013
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 34
+      meshName: Individual track pad.014
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 35
+      meshName: Individual track pad.015
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 36
+      meshName: Individual track pad.016
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 37
+      meshName: Individual track pad.017
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 38
+      meshName: Individual track pad.018
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 39
+      meshName: Individual track pad.019
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 40
+      meshName: Individual track pad.020
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 41
+      meshName: Individual track pad.021
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 42
+      meshName: Individual track pad.022
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 43
+      meshName: Individual track pad.023
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 44
+      meshName: Individual track pad.024
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 45
+      meshName: Individual track pad.025
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 46
+      meshName: Individual track pad.026
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 47
+      meshName: Individual track pad.027
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 48
+      meshName: Individual track pad.028
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 49
+      meshName: Individual track pad.029
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 50
+      meshName: Individual track pad.030
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 51
+      meshName: Individual track pad.031
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 52
+      meshName: Individual track pad.032
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 53
+      meshName: Individual track pad.033
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 54
+      meshName: Individual track pad.034
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 55
+      meshName: Individual track pad.035
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 56
+      meshName: Individual track pad.036
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 57
+      meshName: Individual track pad.037
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 58
+      meshName: Individual track pad.038
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 59
+      meshName: Individual track pad.039
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 60
+      meshName: Individual track pad.040
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 61
+      meshName: Individual track pad.041
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 62
+      meshName: Individual track pad.042
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 63
+      meshName: Individual track pad.043
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 64
+      meshName: Individual track pad.044
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 65
+      meshName: Individual track pad.045
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 66
+      meshName: Individual track pad.046
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 67
+      meshName: Individual track pad.047
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 68
+      meshName: Individual track pad.048
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 69
+      meshName: Individual track pad.049
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 70
+      meshName: Individual track pad.050
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 71
+      meshName: Individual track pad.051
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 72
+      meshName: Main boom
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 73
+      meshName: Rotating upper base
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 74
+      meshName: Rounded engine cowling
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 75
+      meshName: Slew ring
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 76
+      meshName: Track end pad
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 77
+      meshName: Track end pad.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 78
+      meshName: Track end pad.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 79
+      meshName: Track end pad.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 80
+      meshName: Track end pad.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 81
+      meshName: Track end pad.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 82
+      meshName: Track end pad.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 83
+      meshName: Track end pad.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 84
+      meshName: Track end pad.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 85
+      meshName: Track end pad.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 86
+      meshName: Track end pad.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 87
+      meshName: Track end pad.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 88
+      meshName: Track frame
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 89
+      meshName: Track frame.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 90
+      meshName: Track roller
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 91
+      meshName: Track roller.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 92
+      meshName: Track roller.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 93
+      meshName: Track roller.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 94
+      meshName: Track roller.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 95
+      meshName: Track roller.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 96
+      meshName: Track roller.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 97
+      meshName: Track roller.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 98
+      meshName: Track roller.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 99
+      meshName: Track roller.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    supportVGMeshes:
+    - index: 0
+      meshName: Arm pivot pin
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 1
+      meshName: Arm pivot pin.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 2
+      meshName: Arm pivot pin.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 3
+      meshName: Boom hydraulic barrel
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 4
+      meshName: Boom hydraulic rod
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 5
+      meshName: Bucket cutting edge
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 6
+      meshName: Bucket shell
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 7
+      meshName: Bucket tooth
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 8
+      meshName: Bucket tooth.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 9
+      meshName: Bucket tooth.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 10
+      meshName: Bucket tooth.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 11
+      meshName: Cab frame
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 12
+      meshName: Cab front glass
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 13
+      meshName: Cab roof.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 14
+      meshName: Cab side glass
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 15
+      meshName: Dipper stick
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 16
+      meshName: Engine ventilation slot
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 17
+      meshName: Engine ventilation slot.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 18
+      meshName: Engine ventilation slot.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 19
+      meshName: Exhaust
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 20
+      meshName: Individual track pad
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 21
+      meshName: Individual track pad.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 22
+      meshName: Individual track pad.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 23
+      meshName: Individual track pad.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 24
+      meshName: Individual track pad.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 25
+      meshName: Individual track pad.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 26
+      meshName: Individual track pad.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 27
+      meshName: Individual track pad.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 28
+      meshName: Individual track pad.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 29
+      meshName: Individual track pad.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 30
+      meshName: Individual track pad.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 31
+      meshName: Individual track pad.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 32
+      meshName: Individual track pad.012
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 33
+      meshName: Individual track pad.013
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 34
+      meshName: Individual track pad.014
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 35
+      meshName: Individual track pad.015
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 36
+      meshName: Individual track pad.016
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 37
+      meshName: Individual track pad.017
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 38
+      meshName: Individual track pad.018
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 39
+      meshName: Individual track pad.019
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 40
+      meshName: Individual track pad.020
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 41
+      meshName: Individual track pad.021
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 42
+      meshName: Individual track pad.022
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 43
+      meshName: Individual track pad.023
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 44
+      meshName: Individual track pad.024
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 45
+      meshName: Individual track pad.025
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 46
+      meshName: Individual track pad.026
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 47
+      meshName: Individual track pad.027
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 48
+      meshName: Individual track pad.028
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 49
+      meshName: Individual track pad.029
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 50
+      meshName: Individual track pad.030
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 51
+      meshName: Individual track pad.031
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 52
+      meshName: Individual track pad.032
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 53
+      meshName: Individual track pad.033
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 54
+      meshName: Individual track pad.034
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 55
+      meshName: Individual track pad.035
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 56
+      meshName: Individual track pad.036
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 57
+      meshName: Individual track pad.037
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 58
+      meshName: Individual track pad.038
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 59
+      meshName: Individual track pad.039
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 60
+      meshName: Individual track pad.040
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 61
+      meshName: Individual track pad.041
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 62
+      meshName: Individual track pad.042
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 63
+      meshName: Individual track pad.043
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 64
+      meshName: Individual track pad.044
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 65
+      meshName: Individual track pad.045
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 66
+      meshName: Individual track pad.046
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 67
+      meshName: Individual track pad.047
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 68
+      meshName: Individual track pad.048
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 69
+      meshName: Individual track pad.049
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 70
+      meshName: Individual track pad.050
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 71
+      meshName: Individual track pad.051
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 72
+      meshName: Main boom
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 73
+      meshName: Rotating upper base
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 74
+      meshName: Rounded engine cowling
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 75
+      meshName: Slew ring
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 76
+      meshName: Track end pad
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 77
+      meshName: Track end pad.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 78
+      meshName: Track end pad.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 79
+      meshName: Track end pad.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 80
+      meshName: Track end pad.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 81
+      meshName: Track end pad.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 82
+      meshName: Track end pad.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 83
+      meshName: Track end pad.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 84
+      meshName: Track end pad.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 85
+      meshName: Track end pad.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 86
+      meshName: Track end pad.010
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 87
+      meshName: Track end pad.011
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 88
+      meshName: Track frame
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 89
+      meshName: Track frame.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 90
+      meshName: Track roller
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 91
+      meshName: Track roller.001
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 92
+      meshName: Track roller.002
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 93
+      meshName: Track roller.003
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 94
+      meshName: Track roller.004
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 95
+      meshName: Track roller.005
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 96
+      meshName: Track roller.006
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 97
+      meshName: Track roller.007
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 98
+      meshName: Track roller.008
+      lodLevel: 0
+      meshGeometryBuffer: 0
+    - index: 99
+      meshName: Track roller.009
+      lodLevel: 0
+      meshGeometryBuffer: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  overrideDefaultPose: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    namedPoseList:
+    - name: Default
+      skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    defaultPoseIndex: -1
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

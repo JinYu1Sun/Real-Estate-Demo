@@ -1,0 +1,8 @@
+{
+  "name": "realestate-asset-bridge",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "three": "0.180.0"
+  }
+}

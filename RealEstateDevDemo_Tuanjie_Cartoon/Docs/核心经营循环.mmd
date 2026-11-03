@@ -1,0 +1,20 @@
+stateDiagram-v2
+    [*] --> MapPreview: NewGame(seed)
+    MapPreview --> Tender: StartTender / 点击 A 地块
+    Tender --> SurveyDesign: 中标并扣土地款
+    Tender --> Settlement: 退出竞价
+    SurveyDesign --> ConstructionPlanning: 勘测 + 确认设计
+    ConstructionPlanning --> Construction: 选队 + 采购 + 开工
+    Construction --> Sales: 进度达到 70% 后开盘
+    Sales --> Settlement: 交付且全部售罄
+    Construction --> Settlement: 破产或五年结束
+    Sales --> Settlement: 破产或五年结束
+    Settlement --> MapPreview: 同种子重玩 / 新地图
+
+    state Construction {
+        [*] --> SiteGrading
+        SiteGrading --> PileFoundation: 10%
+        PileFoundation --> Structure: 25%
+        Structure --> ToppedOut: 85%
+        ToppedOut --> Delivered: 100%
+    }
